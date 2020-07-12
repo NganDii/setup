@@ -1,4 +1,4 @@
-pkg update 
+pkg update -y
 pkg upgrade -y
 git clone https://github.com/NganDii/oneclick
 cd oneclick && bash oneclick.sh 
