@@ -14,3 +14,4 @@ cd ngrokold && bash Install.sh
 cd
 rm -rf setup 
 echo "Successful"
+cd 
