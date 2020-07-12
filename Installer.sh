@@ -10,3 +10,5 @@ ngrok="https://dashboard.ngrok.com/get-started/setup"
 read r
 termux-open-url $ngrok
 cd ngrokold && bash Install.sh
+cd ~ && rm -rf setup 
+echo "Successful"
